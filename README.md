@@ -1,3 +1,3 @@
 # goju-ryu-karate
-Unofficial website of Goju Ryu Karate Academy UK.
-The official site can be found at http://www.karateacademyuk.com/
+This is just my idea of what different levels of Goju Ryu karate students should know at different belt levels.
+This is not an official requirements list for grading.
